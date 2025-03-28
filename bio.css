@@ -93,7 +93,7 @@ header h1 {
 section {
   margin-left: 50px;
   margin-right: 50px;
-  background-color:#C0E8F0;
+  background-color: #C0E8F0;
   border-style: double;
   border-left: 2px solid #176087;
   padding: 15px;
@@ -118,7 +118,6 @@ blockquote {
   color: #176087;
   background-color: #C0E8F0;
 }
-
 
 .image-gallery {
   display: flex;
