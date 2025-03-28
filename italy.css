@@ -108,11 +108,14 @@ h1 {
 .buttons {
   text-align: center;
   border: 2px solid #176087;
-  background-color: #A0D2DB;
+  background-color: #C0E8F0;
   padding: 10px;
   border-radius: 10px;
 
   
+}
+a{
+  color: #176087;
 }
 a:visited {
   color: #176087;
