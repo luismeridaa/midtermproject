@@ -148,7 +148,8 @@ blockquote {
     margin: 10px auto;
 }
 
-
+a {
+  color: #176087;
 
 a:visited {
   color: #176087;
